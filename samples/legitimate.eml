@@ -1,0 +1,17 @@
+From: Engineering Team <team@example.com>
+Return-Path: <updates@mail.example.com>
+To: william@example.net
+Subject: Weekly engineering update
+Date: Thu, 5 Nov 2026 11:00:00 +0000
+Message-ID: <weekly-update@example.com>
+Authentication-Results: mx.example; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+Here is this week's engineering update. You can read the notes at
+https://example.com/engineering/weekly-update.
+
+Thanks,
+The Engineering Team
